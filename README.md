@@ -1,5 +1,5 @@
 # TPBServer
-**TPBServer is one of my creations/repositories which contains a full JSON list of games for Hydra. For those wondering what TPBServer stands for, TPBServer is "ThePirateBayServer" which is an unofficial "server" that I made for Hydra so people can access even more games from Steam that aren't available for download on Hydra. All files are being updated in real time, meaning if any game is applied to the JSON it will be automatically sync the download source to your Hydra**
+**TPBServer is one of my creations/repositories which contains a full JSON list of games for Hydra. For those wondering what TPBServer stands for, TPBServer is "ThePirateBayServer" which is an unofficial "server" or Download Source that I made for Hydra so people can access even more games from Steam that aren't available for download on Hydra. All files are being updated in real time, meaning if any game is applied to the JSON it will be automatically sync the download source to your Hydra**
 
 All games/game files that are distributed to the JSON are virus verified (meaning mostly of them doesn't contain virus.)
 
